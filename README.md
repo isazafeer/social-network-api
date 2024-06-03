@@ -30,4 +30,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - - Run `npm run start` in the command line to connect to the database.
 - - Use Insomnia to test requests and responses
 
-[Link to video](https://drive.google.com/file/d/1Wac8KEBdpseeUio5p-R9xmSC4WjBON28/view?usp=drive_link)
+[Link to video](https://drive.google.com/file/d/16h0g_9Nc_exxcXVUSf9m2kvQqQBd12bk/view?usp=drive_link)
